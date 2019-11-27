@@ -124,8 +124,6 @@ github.com/marten-seemann/qtls v0.2.3/go.mod h1:xzjG7avBwGGbdZ8dTGxlBnLArsVKLvwm
 github.com/maruel/natural v0.0.0-20180416170133-dbcb3e2e8cf1 h1:PEhRT94KBTY4E0KdCYmhvDGWjSFBxc68j2M6PMRix8U=
 github.com/maruel/natural v0.0.0-20180416170133-dbcb3e2e8cf1/go.mod h1:wI697HNhDFM/vBruYM3ckbszQ2+DOIeH9qdBKMdf288=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
-github.com/mholt/archiver v3.1.1+incompatible h1:1dCVxuqs0dJseYEhi5pl7MYPH9zDa1wBi7mF09cbNkU=
-github.com/mholt/archiver v3.1.1+incompatible/go.mod h1:Dh2dOXnSdiLxRiPoVfIr/fI1TwETms9B8CTWfeh7ROU=
 github.com/mholt/certmagic v0.6.2-0.20190624175158-6a42ef9fe8c2 h1:xKE9kZ5C8gelJC3+BNM6LJs1x21rivK7yxfTZMAuY2s=
 github.com/mholt/certmagic v0.6.2-0.20190624175158-6a42ef9fe8c2/go.mod h1:g4cOPxcjV0oFq3qwpjSA30LReKD8AoIfwAY9VvG35NY=
 github.com/miekg/dns v1.1.3 h1:1g0r1IvskvgL8rR+AcHzUA+oFmGcQlaIm4IqakufeMM=

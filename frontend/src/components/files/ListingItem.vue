@@ -74,7 +74,7 @@ export default {
       return filesize(this.size)
     },
     humanTime: function () {
-      return moment(this.modified).fromNow()
+      return this.modified
     },
     dragStart: function () {
       if (this.selectedCount === 0) {
